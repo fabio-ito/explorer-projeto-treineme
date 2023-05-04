@@ -13,3 +13,12 @@
     <li>Dimensionamento utilizando min-height e a unidade "vh";</li>
     <li>Criação de pseudoclass como ::hover pelo CSS, para estilização de elementos.</li>
   </ul>
+  
+Autor
+
+Fábio Itô de Souza 🚀
+
+Feito com ❤️ por Fábio Itô de Souza 👋🏽 
+
+Entre em contato!
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:fabioito3@gmail.com)
