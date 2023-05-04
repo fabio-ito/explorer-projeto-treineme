@@ -14,3 +14,12 @@
     <li>Creation of pseudoclass like ::hover on CSS, to stylize elements.</li>
   </ul>
 
+<h4>Author</h4>
+
+Fábio Itô de Souza 🚀
+
+Made with ❤️  
+
+Contact me! 👋🏽 <br>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:fabioito3@gmail.com)
