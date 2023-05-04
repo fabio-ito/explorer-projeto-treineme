@@ -14,11 +14,11 @@
     <li>Criação de pseudoclass como ::hover pelo CSS, para estilização de elementos.</li>
   </ul>
   
-Autor
+<h4>Autor</h4>
 
 Fábio Itô de Souza 🚀
 
-Feito com ❤️ por Fábio Itô de Souza 👋🏽 
+Feito com ❤️
 
-Entre em contato!
+Entre em contato! 👋🏽 <br>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:fabioito3@gmail.com)
